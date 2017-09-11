@@ -2,12 +2,7 @@
 
 Everly lite is a free Wordpress theme.
 
-With full version of the Everly theme you get:
-
-Revolution slider plugin
-Ability to change colors via theme options
-Auto updates
-Premium support
+With full version of the Everly theme you get: Revolution slider plugin, Ability to change colors via theme options, Auto updates, Premium support
 
 Everly Wordpress Blog Theme is a commercial theme available from https://premiumcoding.com/wordpress-themes/everly-hipster-wordpress-blog-theme/.
 
