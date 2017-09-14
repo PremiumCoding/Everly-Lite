@@ -136,7 +136,7 @@ global $everly_options_machine;
 		<li>Premium support</li>		
 		</ul>
 		<p class="premium-theme"><b>After you buy the premium version of the theme, simply add the license code and update the theme. Your premium version is now ready to go.</b></p>
-		<a class="buy-freya button" title = "Click to check out the Premium Version" href ="http://premiumcoding.com/checkout/?edd_action=add_to_cart&download_id=42805&discount=everly30off" target = "_blank">Buy Everly now and save 30% with discount code "everly-lite"</a>		
+		<a class="buy-freya button" title = "Click to check out the Premium Version" href ="https://premiumcoding.com/wordpress-themes/everly-hipster-wordpress-blog-theme/" target = "_blank">Go premium and use all power of Everly Theme</a>		
 	</div>  	
 	<form id="of_form" method="post" action="<?php echo esc_attr( $_SERVER['REQUEST_URI'] ) ?>" enctype="multipart/form-data" >		
 	<div id="info_bar"> 
